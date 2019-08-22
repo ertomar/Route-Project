@@ -1,0 +1,54 @@
+.caption h3{
+    color: #aaa;
+    font-family: sans-serif;
+    margin: 29.5px 0;
+    font-weight: 600;
+    
+}
+.caption{
+    margin: 15px 0;
+    padding: 20px;
+    border-bottom: 1px solid #999;
+}
+.input-section{
+    background-color: #EEE;
+    border: none;
+    text-align: center;
+    padding: 30px;
+}
+.input-section h2{
+    color: #000000;
+    font-size:24px;
+    margin: 20px 0;
+    font-weight: 700;
+}
+.input-section p{
+    font-weight: bold;
+    color: #333;
+    margin: 16px 0;
+}
+.input-section input{
+    border-radius: 5px;
+    border: 1px solid #DDD;
+    padding: 5px;
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    max-height: 2em;
+}
+.input-section .btn{
+    margin: 15px 5px;
+}
+#urlContainer div{
+    background-image: linear-gradient(#EEE,#FFF);
+    margin: 10px 0 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+#urlContainer div h2{
+    width:30%;
+}
+#urlContainer div a{
+    margin-right: 10px;
+}
