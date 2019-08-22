@@ -1,5 +1,5 @@
 .caption h3{
-    color: #aaa;
+    color: chocolate;
     font-family: sans-serif;
     margin: 29.5px 0;
     font-weight: 600;
@@ -51,4 +51,8 @@
 }
 #urlContainer div a{
     margin-right: 10px;
+}
+.pageName
+{
+    color: deepskyblue;
 }
